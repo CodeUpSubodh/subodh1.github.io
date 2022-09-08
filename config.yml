@@ -1,6 +1,6 @@
 baseURL: https://navendu.me/
 languageCode: en-us
-title: "Navendu Pottekkat"
+title: "Subodh Srivastava"
 theme: "PaperMod"
 paginate: 200000
 
@@ -26,8 +26,8 @@ taxonomies:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: "Navendu Pottekkat"
-    description: "Software Engineer passionate about building Open-Source Projects."
+    title: "Subodh Srivastava"
+    description: "Full Stack Developer Searching for Opportunities to Boast Up my skills"
     keywords: [Navendu, Pottekkkat, Blog, Portfolio, Resume]
     author: "Navendu Pottekkat"
     DateFormat: "January 2, 2006"
@@ -58,7 +58,7 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Navendu Pottekkat"
+        Title: "Subodh Srivastava"
         Content: >
           - I'm a Software Engineer building Open Source projects. I currently work on [Apache APISIX](https://apisix.apache.org/)—the Cloud Native API Gateway.
           
